@@ -1,0 +1,23 @@
+#10 most data types in pyton examples:
+
+str_list = "Welcome to data types in python"
+age = 90
+pi = 3.14
+a_num = 3j+10
+my_list = ["A", "B", "C", "D"]
+my_tuple = ("A", "B", "C", "D")
+my_dict = {"A":"a", "B":"b", "C":"c", "D":"d"}
+my_set = {'A', 'B', 'C', 'D'}
+x = True
+y = None
+
+print("str_list is of type : ",type(str_list), "\n")
+print("age is of type  : ",type(age),"\n")
+print("pi  : ",type(pi),"\n")
+print("a_num : ",type(a_num),"\n")
+print("my_list is of type  : ",type(my_list),"\n")
+print("my_tuple is of type  : ",type(my_tuple),"\n")
+print("my_dict is of type  : ",type(my_dict),"\n")
+print("my_set is of type  : ",type(my_set),"\n")
+print("x is of type  : ",type(x),"\n")
+print("y is of type  : ",type(y),"\n")
